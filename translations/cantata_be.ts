@@ -17,7 +17,7 @@
       <location filename="../devices/actiondialog.ui" line="196"/>
       <location filename="../devices/actiondialog.ui" line="249"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>Наладзіць</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.ui" line="211"/>
@@ -158,7 +158,7 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/actiondialog.cpp" line="481"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Прыпыненне</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="526"/>
@@ -193,7 +193,7 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/actiondialog.cpp" line="622"/>
       <source>ReplayGain</source>
-      <translation type="unfinished">ReplayGain</translation>
+      <translation>Перадузмацненне</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="623"/>
@@ -294,12 +294,12 @@ Continue with the default settings?</translation>
       <location filename="../devices/actiondialog.cpp" line="802"/>
       <location filename="../devices/actiondialog.cpp" line="816"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Памылка</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="806"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Прамінуць</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="807"/>
@@ -309,22 +309,22 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/actiondialog.cpp" line="811"/>
       <source>Retry</source>
-      <translation type="unfinished">Retry</translation>
+      <translation>Паўтарыць</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="826"/>
       <source>Artist:</source>
-      <translation type="unfinished">Artist:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="827"/>
       <source>Album:</source>
-      <translation type="unfinished">Album:</translation>
+      <translation>Альбом:</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="828"/>
       <source>Track:</source>
-      <translation type="unfinished">Track:</translation>
+      <translation>Трэк:</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="832"/>
@@ -339,7 +339,7 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/actiondialog.cpp" line="835"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>Файл:</translation>
     </message>
     <message>
       <location filename="../devices/actiondialog.cpp" line="853"/>
@@ -358,32 +358,32 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/albumdetails.ui" line="37"/>
       <source>Artist:</source>
-      <translation type="unfinished">Artist:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="50"/>
       <source>Composer:</source>
-      <translation type="unfinished">Composer:</translation>
+      <translation>Кампазітар:</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="63"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="76"/>
       <source>Genre:</source>
-      <translation type="unfinished">Genre:</translation>
+      <translation>Жанр:</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="89"/>
       <source>Year:</source>
-      <translation type="unfinished">Year:</translation>
+      <translation>Год:</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="102"/>
       <source>Disc:</source>
-      <translation type="unfinished">Disc:</translation>
+      <translation>Дыск:</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="115"/>
@@ -393,22 +393,22 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/albumdetails.ui" line="136"/>
       <source>Tracks</source>
-      <translation type="unfinished">Tracks</translation>
+      <translation>Трэкі</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="158"/>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Трэк</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="163"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../devices/albumdetails.ui" line="168"/>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Назва</translation>
     </message>
   </context>
   <context>
@@ -445,7 +445,7 @@ Continue with the default settings?</translation>
     <message>
       <location filename="../devices/albumdetailsdialog.cpp" line="143"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Прылады</translation>
     </message>
     <message>
       <location filename="../devices/albumdetailsdialog.cpp" line="231"/>
@@ -500,12 +500,12 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../context/albumview.cpp" line="84"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../context/albumview.cpp" line="207"/>
       <source>Tracks</source>
-      <translation type="unfinished">Tracks</translation>
+      <translation>Трэкі</translation>
     </message>
   </context>
   <context>
@@ -526,7 +526,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../gui/apikeyssettings.cpp" line="88"/>
       <source>Service</source>
-      <translation type="unfinished">Service</translation>
+      <translation>Сэрвіс</translation>
     </message>
     <message>
       <location filename="../gui/apikeyssettings.cpp" line="88"/>
@@ -549,12 +549,12 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../context/artistview.cpp" line="109"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../context/artistview.cpp" line="323"/>
       <source>Albums</source>
-      <translation type="unfinished">Albums</translation>
+      <translation>Альбомы</translation>
     </message>
     <message>
       <location filename="../context/artistview.cpp" line="349"/>
@@ -640,7 +640,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../devices/audiocdsettings.cpp" line="37"/>
       <source>CDDB</source>
-      <translation type="unfinished">CDDB</translation>
+      <translation>CDDB</translation>
     </message>
     <message>
       <location filename="../devices/audiocdsettings.cpp" line="38"/>
@@ -668,7 +668,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../models/browsemodel.cpp" line="246"/>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Спіс прайгравання</translation>
     </message>
   </context>
   <context>
@@ -676,12 +676,12 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../gui/cachesettings.cpp" line="169"/>
       <source>Deleting...</source>
-      <translation type="unfinished">Deleting...</translation>
+      <translation>Выдаленне...</translation>
     </message>
     <message>
       <location filename="../gui/cachesettings.cpp" line="180"/>
       <source>Calculating...</source>
-      <translation type="unfinished">Calculating...</translation>
+      <translation>Падлік...</translation>
     </message>
   </context>
   <context>
@@ -709,7 +709,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../gui/cachesettings.cpp" line="268"/>
       <source>Lyrics</source>
-      <translation type="unfinished">Lyrics</translation>
+      <translation>Тэксты песень</translation>
     </message>
     <message>
       <location filename="../gui/cachesettings.cpp" line="269"/>
@@ -773,7 +773,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../gui/cachesettings.cpp" line="193"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Імя</translation>
     </message>
     <message>
       <location filename="../gui/cachesettings.cpp" line="193"/>
@@ -836,12 +836,12 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../devices/cddbselectiondialog.cpp" line="46"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../devices/cddbselectiondialog.cpp" line="46"/>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Назва</translation>
     </message>
     <message>
       <location filename="../devices/cddbselectiondialog.cpp" line="54"/>
@@ -876,7 +876,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../context/contextsettings.cpp" line="37"/>
       <source>Other</source>
-      <translation type="unfinished">Other</translation>
+      <translation>Іншыя</translation>
     </message>
   </context>
   <context>
@@ -884,7 +884,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../context/contextwidget.cpp" line="358"/>
       <source>&amp;Artist</source>
-      <translation type="unfinished">&amp;Artist</translation>
+      <translation>&amp;Выканаўца</translation>
     </message>
     <message>
       <location filename="../context/contextwidget.cpp" line="359"/>
@@ -894,7 +894,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../context/contextwidget.cpp" line="360"/>
       <source>&amp;Track</source>
-      <translation type="unfinished">&amp;Track</translation>
+      <translation>&amp;Трэк</translation>
     </message>
   </context>
   <context>
@@ -902,7 +902,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../gui/coverdialog.ui" line="23"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Пошук</translation>
     </message>
     <message>
       <location filename="../gui/coverdialog.ui" line="30"/>
@@ -912,7 +912,7 @@ If &apos;Title&apos; is &quot;Wibble - Wobble&quot;, then &apos;Artist&apos; wil
     <message>
       <location filename="../gui/coverdialog.ui" line="37"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>Наладзіць</translation>
     </message>
     <message>
       <location filename="../gui/coverdialog.ui" line="47"/>
@@ -992,12 +992,12 @@ Could not download to temporary file!</translation>
     <message>
       <location filename="../gui/coverdialog.cpp" line="833"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>Дысплей</translation>
     </message>
     <message>
       <location filename="../gui/coverdialog.cpp" line="834"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../gui/coverdialog.cpp" line="1213"/>
@@ -1029,7 +1029,7 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../gui/coverdialog.cpp" line="1332"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Пошук...</translation>
     </message>
   </context>
   <context>
@@ -1070,12 +1070,12 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../gui/coverdialog.cpp" line="229"/>
       <source>Image</source>
-      <translation type="unfinished">Image</translation>
+      <translation>Выява</translation>
     </message>
     <message>
       <location filename="../gui/coverdialog.cpp" line="232"/>
       <source>Downloading...</source>
-      <translation type="unfinished">Downloading...</translation>
+      <translation>Спампоўванне...</translation>
     </message>
     <message>
       <location filename="../gui/coverdialog.cpp" line="277"/>
@@ -1090,12 +1090,12 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="46"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="47"/>
       <source>Command:</source>
-      <translation type="unfinished">Command:</translation>
+      <translation>Загад:</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="50"/>
@@ -1110,7 +1110,7 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="70"/>
       <source>Edit Command</source>
-      <translation type="unfinished">Edit Command</translation>
+      <translation>Рэдагаваць загад</translation>
     </message>
   </context>
   <context>
@@ -1131,28 +1131,28 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="104"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Дадаць</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="105"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Рэдагаваць</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="106"/>
       <location filename="../gui/customactionssettings.cpp" line="182"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="110"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Імя</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="110"/>
       <source>Command</source>
-      <translation type="unfinished">Command</translation>
+      <translation>Загад</translation>
     </message>
     <message>
       <location filename="../gui/customactionssettings.cpp" line="182"/>
@@ -1191,7 +1191,7 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../devices/devicepropertieswidget.ui" line="32"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../devices/devicepropertieswidget.ui" line="45"/>
@@ -1336,7 +1336,7 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../devices/devicepropertieswidget.cpp" line="235"/>
       <source>Encoder</source>
-      <translation type="unfinished">Encoder</translation>
+      <translation>Кадавальнік</translation>
     </message>
     <message>
       <location filename="../devices/devicepropertieswidget.cpp" line="250"/>
@@ -1426,7 +1426,7 @@ Could not copy file to &apos;%1&apos;!</translation>
       <location filename="../devices/devicespage.cpp" line="422"/>
       <location filename="../devices/devicespage.cpp" line="434"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Абнавіць</translation>
     </message>
     <message>
       <location filename="../devices/devicespage.cpp" line="410"/>
@@ -1456,12 +1456,12 @@ Could not copy file to &apos;%1&apos;!</translation>
     <message>
       <location filename="../devices/devicespage.cpp" line="434"/>
       <source>Partial</source>
-      <translation type="unfinished">Partial</translation>
+      <translation>Часткова</translation>
     </message>
     <message>
       <location filename="../devices/devicespage.cpp" line="434"/>
       <source>Full</source>
-      <translation type="unfinished">Full</translation>
+      <translation>Цалкам</translation>
     </message>
     <message>
       <location filename="../devices/devicespage.cpp" line="481"/>
@@ -1490,7 +1490,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/devicespage.cpp" line="528"/>
       <source>Eject</source>
-      <translation type="unfinished">Eject</translation>
+      <translation>Выняць</translation>
     </message>
     <message>
       <location filename="../devices/devicespage.cpp" line="529"/>
@@ -1500,7 +1500,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/devicespage.cpp" line="530"/>
       <source>Disconnect</source>
-      <translation type="unfinished">Disconnect</translation>
+      <translation>Адлучыцца</translation>
     </message>
     <message>
       <location filename="../devices/devicespage.cpp" line="549"/>
@@ -1524,7 +1524,7 @@ This cannot be undone.</translation>
       <location filename="../models/digitallyimported.cpp" line="166"/>
       <location filename="../models/digitallyimported.cpp" line="187"/>
       <source>Unknown error</source>
-      <translation type="unfinished">Unknown error</translation>
+      <translation>Невядомая памылка</translation>
     </message>
     <message>
       <location filename="../models/digitallyimported.cpp" line="174"/>
@@ -1562,12 +1562,12 @@ This cannot be undone.</translation>
     <message>
       <location filename="../streams/digitallyimportedsettings.ui" line="51"/>
       <source>Username:</source>
-      <translation type="unfinished">Username:</translation>
+      <translation>Імя карыстальніка:</translation>
     </message>
     <message>
       <location filename="../streams/digitallyimportedsettings.ui" line="64"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>Пароль:</translation>
     </message>
     <message>
       <location filename="../streams/digitallyimportedsettings.ui" line="81"/>
@@ -1577,14 +1577,14 @@ This cannot be undone.</translation>
     <message>
       <location filename="../streams/digitallyimportedsettings.ui" line="94"/>
       <source>Status:</source>
-      <translation type="unfinished">Status:</translation>
+      <translation>Стан:</translation>
     </message>
     <message>
       <location filename="../streams/digitallyimportedsettings.ui" line="120"/>
       <location filename="../streams/digitallyimportedsettings.cpp" line="137"/>
       <location filename="../streams/digitallyimportedsettings.cpp" line="143"/>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Лагін</translation>
     </message>
     <message>
       <location filename="../streams/digitallyimportedsettings.ui" line="127"/>
@@ -1635,7 +1635,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../streams/digitallyimportedsettings.cpp" line="122"/>
       <source>Authenticated</source>
-      <translation type="unfinished">Authenticated</translation>
+      <translation>З аўтэнтыфікацыяй</translation>
     </message>
     <message>
       <location filename="../streams/digitallyimportedsettings.cpp" line="143"/>
@@ -1649,12 +1649,12 @@ This cannot be undone.</translation>
       <location filename="../mac/dockmenu.cpp" line="33"/>
       <location filename="../mac/dockmenu.cpp" line="43"/>
       <source>Play</source>
-      <translation type="unfinished">Play</translation>
+      <translation>Прайграць</translation>
     </message>
     <message>
       <location filename="../mac/dockmenu.cpp" line="43"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>Паўза</translation>
     </message>
   </context>
   <context>
@@ -1751,17 +1751,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/dynamicplaylistspage.cpp" line="38"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Дадаць</translation>
     </message>
     <message>
       <location filename="../playlists/dynamicplaylistspage.cpp" line="39"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Рэдагаваць</translation>
     </message>
     <message>
       <location filename="../playlists/dynamicplaylistspage.cpp" line="40"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../playlists/dynamicplaylistspage.cpp" line="88"/>
@@ -1798,7 +1798,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="38"/>
       <source>Example:</source>
-      <translation type="unfinished">Example:</translation>
+      <translation>Прыклад:</translation>
     </message>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="67"/>
@@ -1833,7 +1833,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="102"/>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Кампазітар</translation>
     </message>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="109"/>
@@ -1873,7 +1873,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="154"/>
       <source>Track #</source>
-      <translation type="unfinished">Track #</translation>
+      <translation>Трэк #</translation>
     </message>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="161"/>
@@ -1883,7 +1883,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="164"/>
       <source>CD #</source>
-      <translation type="unfinished">CD #</translation>
+      <translation>CD #</translation>
     </message>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="171"/>
@@ -1893,7 +1893,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="174"/>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Год</translation>
     </message>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="181"/>
@@ -1903,7 +1903,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../devices/filenameschemedialog.ui" line="184"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../devices/filenameschemedialog.cpp" line="33"/>
@@ -1972,17 +1972,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/findmpddialog.cpp" line="28"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Імя</translation>
     </message>
     <message>
       <location filename="../gui/findmpddialog.cpp" line="28"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Адрас</translation>
     </message>
     <message>
       <location filename="../gui/findmpddialog.cpp" line="28"/>
       <source>Port</source>
-      <translation type="unfinished">Port</translation>
+      <translation>Порт</translation>
     </message>
   </context>
   <context>
@@ -2115,12 +2115,12 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/initialsettingswizard.ui" line="378"/>
       <source>Host:</source>
-      <translation type="unfinished">Host:</translation>
+      <translation>Хост:</translation>
     </message>
     <message>
       <location filename="../gui/initialsettingswizard.ui" line="411"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>Пароль:</translation>
     </message>
     <message>
       <location filename="../gui/initialsettingswizard.ui" line="428"/>
@@ -2176,7 +2176,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/initialsettingswizard.ui" line="722"/>
       <source>Finished!</source>
-      <translation type="unfinished">Finished!</translation>
+      <translation>Завершана!</translation>
     </message>
     <message>
       <location filename="../gui/initialsettingswizard.ui" line="745"/>
@@ -2201,7 +2201,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/initialsettingswizard.cpp" line="161"/>
       <source>Connection Established</source>
-      <translation type="unfinished">Connection Established</translation>
+      <translation>Злучэнне наладжана</translation>
     </message>
     <message>
       <location filename="../gui/initialsettingswizard.cpp" line="161"/>
@@ -2219,7 +2219,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../support/inputdialog.h" line="64"/>
       <source>Password</source>
-      <translation type="unfinished">Password</translation>
+      <translation>Пароль</translation>
     </message>
     <message>
       <location filename="../support/inputdialog.h" line="64"/>
@@ -2232,7 +2232,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="36"/>
       <source>Sidebar</source>
-      <translation type="unfinished">Sidebar</translation>
+      <translation>Бакавая панэль</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="42"/>
@@ -2252,19 +2252,19 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="71"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Параметры</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="82"/>
       <location filename="../gui/interfacesettings.ui" line="147"/>
       <location filename="../gui/interfacesettings.ui" line="746"/>
       <source>Style:</source>
-      <translation type="unfinished">Style:</translation>
+      <translation>Стыль:</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="95"/>
       <source>Position:</source>
-      <translation type="unfinished">Position:</translation>
+      <translation>Пазіцыя:</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="108"/>
@@ -2325,7 +2325,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="223"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Няма</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="230"/>
@@ -2355,12 +2355,12 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="361"/>
       <source>40%</source>
-      <translation type="unfinished">40%</translation>
+      <translation>40%</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="377"/>
       <source>Toolbar</source>
-      <translation type="unfinished">Toolbar</translation>
+      <translation>Панэль прылад</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="386"/>
@@ -2385,7 +2385,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="415"/>
       <source>External</source>
-      <translation type="unfinished">External</translation>
+      <translation>Вонкавае</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="421"/>
@@ -2465,7 +2465,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="557"/>
       <source>Single Tracks</source>
-      <translation type="unfinished">Single Tracks</translation>
+      <translation>Трэк</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="563"/>
@@ -2480,7 +2480,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="583"/>
       <source>Miscellaneous</source>
-      <translation type="unfinished">Miscellaneous</translation>
+      <translation>Рознае</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="589"/>
@@ -2515,7 +2515,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="658"/>
       <source>Filename:</source>
-      <translation type="unfinished">Filename:</translation>
+      <translation>Назва файла:</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="668"/>
@@ -2530,7 +2530,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="701"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>Асноўнае</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="712"/>
@@ -2550,7 +2550,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.ui" line="733"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Мова:</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.ui" line="761"/>
@@ -2580,17 +2580,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="152"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>Бібліятэка</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="153"/>
       <source>Folders</source>
-      <translation type="unfinished">Folders</translation>
+      <translation>Каталогі</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="154"/>
       <source>Playlists</source>
-      <translation type="unfinished">Playlists</translation>
+      <translation>Спісы прайгравання</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="155"/>
@@ -2620,7 +2620,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="168"/>
       <source>Small</source>
-      <translation type="unfinished">Small</translation>
+      <translation>Невялікі</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="169"/>
@@ -2630,22 +2630,22 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="170"/>
       <source>Left</source>
-      <translation type="unfinished">Left</translation>
+      <translation>Улева</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="170"/>
       <source>Right</source>
-      <translation type="unfinished">Right</translation>
+      <translation>Управа</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="171"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation>Верх</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="172"/>
       <source>Bottom</source>
-      <translation type="unfinished">Bottom</translation>
+      <translation>Ніз</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="179"/>
@@ -2661,7 +2661,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="205"/>
       <source>Notifications</source>
-      <translation type="unfinished">Notifications</translation>
+      <translation>Апавяшчэнні</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="219"/>
@@ -2688,7 +2688,7 @@ This cannot be undone.</translation>
       <location filename="../gui/interfacesettings.cpp" line="565"/>
       <source>%1%</source>
       <comment>value%</comment>
-      <translation type="unfinished">%1%</translation>
+      <translation>%1%</translation>
     </message>
     <message>
       <location filename="../gui/interfacesettings.cpp" line="570"/>
@@ -2785,19 +2785,19 @@ Example for Ctrl+a: hold the Ctrl key and press a.</translation>
       <location filename="../support/keysequencewidget.cpp" line="274"/>
       <source>Shift</source>
       <comment>Shift key</comment>
-      <translation type="unfinished">Shift</translation>
+      <translation>Shift</translation>
     </message>
     <message>
       <location filename="../support/keysequencewidget.cpp" line="278"/>
       <source>Input</source>
       <comment>What the user inputs now will be taken as the new shortcut</comment>
-      <translation type="unfinished">Input</translation>
+      <translation>Увод</translation>
     </message>
     <message>
       <location filename="../support/keysequencewidget.cpp" line="285"/>
       <source>None</source>
       <comment>No shortcut defined</comment>
-      <translation type="unfinished">None</translation>
+      <translation>Няма</translation>
     </message>
     <message>
       <location filename="../support/keysequencewidget.cpp" line="380"/>
@@ -2865,12 +2865,12 @@ Please choose another one.</translation>
     <message>
       <location filename="../gui/librarypage.cpp" line="68"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Імя</translation>
     </message>
     <message>
       <location filename="../gui/librarypage.cpp" line="69"/>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Год</translation>
     </message>
     <message>
       <location filename="../gui/librarypage.cpp" line="71"/>
@@ -2915,17 +2915,17 @@ Please choose another one.</translation>
     <message>
       <location filename="../gui/librarypage.cpp" line="86"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../gui/librarypage.cpp" line="87"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../gui/librarypage.cpp" line="88"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../gui/librarypage.cpp" line="122"/>
@@ -2952,7 +2952,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/localfolderpage.cpp" line="43"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>Хатні каталог</translation>
     </message>
     <message>
       <location filename="../gui/localfolderpage.cpp" line="43"/>
@@ -2962,7 +2962,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/localfolderpage.cpp" line="44"/>
       <source>Root</source>
-      <translation type="unfinished">Root</translation>
+      <translation>Корань</translation>
     </message>
     <message>
       <location filename="../gui/localfolderpage.cpp" line="44"/>
@@ -2997,12 +2997,12 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../context/lyricsdialog.cpp" line="60"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../context/lyricsdialog.cpp" line="62"/>
       <source>Artist:</source>
-      <translation type="unfinished">Artist:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../context/lyricsdialog.cpp" line="64"/>
@@ -3015,7 +3015,7 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../mpd-interface/mpdconnection.cpp" line="171"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Невядома</translation>
     </message>
     <message>
       <location filename="../mpd-interface/mpdconnection.cpp" line="437"/>
@@ -3101,7 +3101,7 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../online/magnatuneservice.cpp" line="120"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Няма</translation>
     </message>
     <message>
       <location filename="../online/magnatuneservice.cpp" line="121"/>
@@ -3126,7 +3126,7 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../online/magnatuneservice.cpp" line="143"/>
       <source>FLAC</source>
-      <translation type="unfinished">FLAC</translation>
+      <translation>FLAC</translation>
     </message>
     <message>
       <location filename="../online/magnatuneservice.cpp" line="144"/>
@@ -3149,12 +3149,12 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../online/magnatunesettingsdialog.cpp" line="42"/>
       <source>Username:</source>
-      <translation type="unfinished">Username:</translation>
+      <translation>Імя карыстальніка:</translation>
     </message>
     <message>
       <location filename="../online/magnatunesettingsdialog.cpp" line="43"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>Пароль:</translation>
     </message>
     <message>
       <location filename="../online/magnatunesettingsdialog.cpp" line="51"/>
@@ -3187,12 +3187,12 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="253"/>
       <source>Preferences...</source>
-      <translation type="unfinished">Preferences...</translation>
+      <translation>Налады...</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="256"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>Выхад</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="259"/>
@@ -3217,7 +3217,7 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="273"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Абнавіць</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="275"/>
@@ -3275,7 +3275,7 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="307"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Ачысціць</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="309"/>
@@ -3295,17 +3295,17 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="315"/>
       <source>Full Screen</source>
-      <translation type="unfinished">Full Screen</translation>
+      <translation>На ўвесь экран</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="319"/>
       <source>Random</source>
-      <translation type="unfinished">Random</translation>
+      <translation>Выпадковы</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="320"/>
       <source>Repeat</source>
-      <translation type="unfinished">Repeat</translation>
+      <translation>Паўтараць</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="321"/>
@@ -3345,17 +3345,17 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="334"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="335"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="336"/>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Трэк</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="348"/>
@@ -3380,7 +3380,7 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="357"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Скасаваць</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="411"/>
@@ -3390,37 +3390,37 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="416"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>Бібліятэка</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="421"/>
       <source>Folders</source>
-      <translation type="unfinished">Folders</translation>
+      <translation>Каталогі</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="427"/>
       <source>Playlists</source>
-      <translation type="unfinished">Playlists</translation>
+      <translation>Спісы прайгравання</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="437"/>
       <source>Internet</source>
-      <translation type="unfinished">Internet</translation>
+      <translation>Інтэрнэт</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="446"/>
       <source>Devices</source>
-      <translation type="unfinished">Devices</translation>
+      <translation>Прылады</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="453"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Пошук</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="458"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Інфармацыя</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="493"/>
@@ -3435,32 +3435,32 @@ If this search does find new lyrics, these will still be associated with the ori
     <message>
       <location filename="../gui/mainwindow.cpp" line="601"/>
       <source>&amp;Music</source>
-      <translation type="unfinished">&amp;Music</translation>
+      <translation>&amp;Музыка</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="612"/>
       <source>&amp;Edit</source>
-      <translation type="unfinished">&amp;Edit</translation>
+      <translation>&amp;Рэдагаваць</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="624"/>
       <source>&amp;View</source>
-      <translation type="unfinished">&amp;View</translation>
+      <translation>&amp;Агляд</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="636"/>
       <source>&amp;Queue</source>
-      <translation type="unfinished">&amp;Queue</translation>
+      <translation>&amp;Чарга</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="646"/>
       <source>&amp;Settings</source>
-      <translation type="unfinished">&amp;Settings</translation>
+      <translation>&amp;Налады</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="662"/>
       <source>&amp;Help</source>
-      <translation type="unfinished">&amp;Help</translation>
+      <translation>&amp;Даведка</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="707"/>
@@ -3597,7 +3597,7 @@ Quitting now will abort the download.</translation>
     <message>
       <location filename="../gui/mainwindow.cpp" line="2025"/>
       <source>Priority</source>
-      <translation type="unfinished">Priority</translation>
+      <translation>Прыярытэт</translation>
     </message>
     <message>
       <location filename="../gui/mainwindow.cpp" line="2025"/>
@@ -3674,7 +3674,7 @@ Add to that playlist?</translation>
     <message>
       <location filename="../widgets/menubutton.cpp" line="47"/>
       <source>Menu</source>
-      <translation type="unfinished">Menu</translation>
+      <translation>Меню</translation>
     </message>
   </context>
   <context>
@@ -3682,7 +3682,7 @@ Add to that playlist?</translation>
     <message>
       <location filename="../widgets/messageoverlay.cpp" line="49"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Скасаваць</translation>
     </message>
   </context>
   <context>
@@ -3717,7 +3717,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../dbus/mpris.cpp" line="166"/>
       <source>(Stream)</source>
-      <translation type="unfinished">(Stream)</translation>
+      <translation>(Струмень)</translation>
     </message>
   </context>
   <context>
@@ -3800,7 +3800,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../models/musiclibrarymodel.cpp" line="186"/>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Спіс прайгравання</translation>
     </message>
     <message numerus="yes">
       <location filename="../models/musiclibrarymodel.cpp" line="212"/>
@@ -3862,7 +3862,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../widgets/nowplayingwidget.cpp" line="320"/>
       <source>Copy To Clipboard</source>
-      <translation type="unfinished">Copy To Clipboard</translation>
+      <translation>Скапіраваць у буфер абмену</translation>
     </message>
     <message>
       <location filename="../widgets/nowplayingwidget.cpp" line="321"/>
@@ -3872,11 +3872,11 @@ This cannot be undone.</translation>
     <message numerus="yes">
       <location filename="../widgets/nowplayingwidget.cpp" line="465"/>
       <source>%n bit</source>
-      <translation type="unfinished">
-        <numerusform>%n bit</numerusform>
-        <numerusform>%n bit</numerusform>
-        <numerusform>%n bit</numerusform>
-        <numerusform>%n bit</numerusform>
+      <translation>
+        <numerusform>%n біт</numerusform>
+        <numerusform>%n біт</numerusform>
+        <numerusform>%n біт</numerusform>
+        <numerusform>%n біт</numerusform>
       </translation>
     </message>
   </context>
@@ -3885,22 +3885,22 @@ This cannot be undone.</translation>
     <message>
       <location filename="../support/osxstyle.cpp" line="74"/>
       <source>&amp;Window</source>
-      <translation type="unfinished">&amp;Window</translation>
+      <translation>&amp;Акно</translation>
     </message>
     <message>
       <location filename="../support/osxstyle.cpp" line="75"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Закрыць</translation>
     </message>
     <message>
       <location filename="../support/osxstyle.cpp" line="76"/>
       <source>Minimize</source>
-      <translation type="unfinished">Minimize</translation>
+      <translation>Згарнуць</translation>
     </message>
     <message>
       <location filename="../support/osxstyle.cpp" line="77"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Маштаб</translation>
     </message>
   </context>
   <context>
@@ -3941,17 +3941,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../online/onlinedbwidget.cpp" line="49"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../online/onlinedbwidget.cpp" line="50"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../online/onlinedbwidget.cpp" line="52"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>Наладзіць</translation>
     </message>
     <message>
       <location filename="../online/onlinedbwidget.cpp" line="116"/>
@@ -3967,7 +3967,7 @@ This cannot be undone.</translation>
       <location filename="../online/onlinedbwidget.cpp" line="118"/>
       <location filename="../online/onlinedbwidget.cpp" line="189"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Спампаваць</translation>
     </message>
     <message>
       <location filename="../online/onlinedbwidget.cpp" line="189"/>
@@ -3980,7 +3980,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../online/onlinesearchservice.cpp" line="41"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Пошук...</translation>
     </message>
   </context>
   <context>
@@ -4036,7 +4036,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="424"/>
       <source>Reload</source>
-      <translation type="unfinished">Reload</translation>
+      <translation>Перазагрузіць</translation>
     </message>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="467"/>
@@ -4059,7 +4059,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../context/othersettings.ui" line="32"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Ніякі</translation>
     </message>
     <message>
       <location filename="../context/othersettings.ui" line="39"/>
@@ -4089,7 +4089,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../context/othersettings.ui" line="152"/>
       <source>40%</source>
-      <translation type="unfinished">40%</translation>
+      <translation>40%</translation>
     </message>
     <message>
       <location filename="../context/othersettings.ui" line="167"/>
@@ -4104,7 +4104,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../context/othersettings.ui" line="180"/>
       <source> ms</source>
-      <translation type="unfinished"> ms</translation>
+      <translation> мс</translation>
     </message>
     <message>
       <location filename="../context/othersettings.ui" line="193"/>
@@ -4156,7 +4156,7 @@ This cannot be undone.</translation>
       <location filename="../context/othersettings.cpp" line="101"/>
       <source>%1%</source>
       <comment>value%</comment>
-      <translation type="unfinished">%1%</translation>
+      <translation>%1%</translation>
     </message>
     <message>
       <location filename="../context/othersettings.cpp" line="106"/>
@@ -4198,19 +4198,19 @@ This cannot be undone.</translation>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="370"/>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Загаловак</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="371"/>
       <location filename="../models/playqueuemodel.cpp" line="451"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="372"/>
       <location filename="../models/playqueuemodel.cpp" line="453"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="373"/>
@@ -4226,13 +4226,13 @@ This cannot be undone.</translation>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="375"/>
       <source>Disc</source>
-      <translation type="unfinished">Disc</translation>
+      <translation>Дыск</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="376"/>
       <location filename="../models/playqueuemodel.cpp" line="457"/>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Год</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="377"/>
@@ -4243,39 +4243,39 @@ This cannot be undone.</translation>
       <location filename="../models/playqueuemodel.cpp" line="378"/>
       <location filename="../models/playqueuemodel.cpp" line="456"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="379"/>
       <source>Priority</source>
-      <translation type="unfinished">Priority</translation>
+      <translation>Прыярытэт</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="380"/>
       <location filename="../models/playqueuemodel.cpp" line="458"/>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Кампазітар</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="381"/>
       <location filename="../models/playqueuemodel.cpp" line="459"/>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="382"/>
       <source>Rating</source>
-      <translation type="unfinished">Rating</translation>
+      <translation>Рэйтынг</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="383"/>
       <source>Filename</source>
-      <translation type="unfinished">Filename</translation>
+      <translation>Назва файла</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="384"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Шлях</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="429"/>
@@ -4285,27 +4285,27 @@ This cannot be undone.</translation>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="432"/>
       <source>Undo</source>
-      <translation type="unfinished">Undo</translation>
+      <translation>Адрабіць</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="434"/>
       <source>Redo</source>
-      <translation type="unfinished">Redo</translation>
+      <translation>Вярнуць</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="440"/>
       <source>Shuffle</source>
-      <translation type="unfinished">Shuffle</translation>
+      <translation>Выпадковы</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="442"/>
       <source>Tracks</source>
-      <translation type="unfinished">Tracks</translation>
+      <translation>Трэкі</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="443"/>
       <source>Albums</source>
-      <translation type="unfinished">Albums</translation>
+      <translation>Альбомы</translation>
     </message>
     <message>
       <location filename="../models/playqueuemodel.cpp" line="449"/>
@@ -4338,7 +4338,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../widgets/playqueueview.cpp" line="112"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
   </context>
   <context>
@@ -4346,7 +4346,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/playbacksettings.ui" line="29"/>
       <source>Playback</source>
-      <translation type="unfinished">Playback</translation>
+      <translation>Прайграванне</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.ui" line="38"/>
@@ -4358,12 +4358,12 @@ This cannot be undone.</translation>
       <location filename="../gui/playbacksettings.ui" line="122"/>
       <location filename="../gui/playbacksettings.cpp" line="46"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Нічога</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.ui" line="51"/>
       <source> ms</source>
-      <translation type="unfinished"> ms</translation>
+      <translation> мс</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.ui" line="58"/>
@@ -4383,7 +4383,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/playbacksettings.ui" line="88"/>
       <source>Output</source>
-      <translation type="unfinished">Output</translation>
+      <translation>Вывад</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.ui" line="94"/>
@@ -4404,7 +4404,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/playbacksettings.ui" line="125"/>
       <source> s</source>
-      <translation type="unfinished"> s</translation>
+      <translation> с</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.ui" line="178"/>
@@ -4444,17 +4444,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/playbacksettings.cpp" line="47"/>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Трэк</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.cpp" line="48"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.cpp" line="49"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Аўтаматычна</translation>
     </message>
     <message>
       <location filename="../gui/playbacksettings.cpp" line="173"/>
@@ -4472,7 +4472,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/playlistrule.ui" line="26"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Тып:</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="37"/>
@@ -4487,7 +4487,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/playlistrule.ui" line="50"/>
       <source>Artist:</source>
-      <translation type="unfinished">Artist:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="63"/>
@@ -4502,22 +4502,22 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/playlistrule.ui" line="89"/>
       <source>Composer:</source>
-      <translation type="unfinished">Composer:</translation>
+      <translation>Кампазітар:</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="102"/>
       <source>Album:</source>
-      <translation type="unfinished">Album:</translation>
+      <translation>Альбом:</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="115"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="128"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="141"/>
@@ -4538,7 +4538,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/playlistrule.ui" line="187"/>
       <source>Comment:</source>
-      <translation type="unfinished">Comment:</translation>
+      <translation>Каментар:</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrule.ui" line="200"/>
@@ -4582,7 +4582,7 @@ This cannot be undone.</translation>
       <location filename="../playlists/playlistruledialog.cpp" line="165"/>
       <location filename="../playlists/playlistruledialog.cpp" line="166"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Дадаць</translation>
     </message>
     <message>
       <location filename="../playlists/playlistruledialog.cpp" line="243"/>
@@ -4610,17 +4610,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/playlistrules.ui" line="71"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Дадаць</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrules.ui" line="78"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Рэдагаваць</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrules.ui" line="85"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrules.ui" line="107"/>
@@ -4647,7 +4647,7 @@ This cannot be undone.</translation>
       <location filename="../playlists/playlistrules.ui" line="160"/>
       <location filename="../playlists/playlistrules.ui" line="180"/>
       <source> seconds</source>
-      <translation type="unfinished"> seconds</translation>
+      <translation> секунд</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrules.ui" line="208"/>
@@ -4662,7 +4662,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/playlistrules.ui" line="232"/>
       <source> days</source>
-      <translation type="unfinished"> days</translation>
+      <translation> дзён</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrules.ui" line="235"/>
@@ -4704,12 +4704,12 @@ Use the settings below to restrict the range of songs added.</translation>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="201"/>
       <source>Ascending</source>
-      <translation type="unfinished">Ascending</translation>
+      <translation>Да павелічэння</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="202"/>
       <source>Descending</source>
-      <translation type="unfinished">Descending</translation>
+      <translation>Адваротны</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="149"/>
@@ -4776,7 +4776,7 @@ Overwrite?</translation>
     <message>
       <location filename="../models/playlistsmodel.cpp" line="93"/>
       <source>New Playlist...</source>
-      <translation type="unfinished">New Playlist...</translation>
+      <translation>Новы плэйліст...</translation>
     </message>
     <message>
       <location filename="../models/playlistsmodel.cpp" line="116"/>
@@ -4815,7 +4815,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="282"/>
       <source>Website:</source>
-      <translation type="unfinished">Website:</translation>
+      <translation>Сеціўная пляцоўка:</translation>
     </message>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="289"/>
@@ -4893,7 +4893,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="361"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Пошук</translation>
     </message>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="404"/>
@@ -5024,7 +5024,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastsettingsdialog.cpp" line="93"/>
       <source>Every day</source>
-      <translation type="unfinished">Every day</translation>
+      <translation>Штодзень</translation>
     </message>
     <message>
       <location filename="../online/podcastsettingsdialog.cpp" line="94"/>
@@ -5062,7 +5062,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="501"/>
       <source>URL</source>
-      <translation type="unfinished">URL</translation>
+      <translation>URL</translation>
     </message>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="510"/>
@@ -5072,7 +5072,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="511"/>
       <source>Load</source>
-      <translation type="unfinished">Load</translation>
+      <translation>Загрузіць</translation>
     </message>
     <message>
       <location filename="../online/podcastsearchdialog.cpp" line="514"/>
@@ -5165,7 +5165,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastwidget.cpp" line="83"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>Наладзіць</translation>
     </message>
     <message>
       <location filename="../online/podcastwidget.cpp" line="98"/>
@@ -5195,7 +5195,7 @@ Overwrite?</translation>
     <message>
       <location filename="../online/podcastwidget.cpp" line="286"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Абнавіць</translation>
     </message>
     <message>
       <location filename="../online/podcastwidget.cpp" line="286"/>
@@ -5236,7 +5236,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="75"/>
       <source>Playback</source>
-      <translation type="unfinished">Playback</translation>
+      <translation>Прайграванне</translation>
     </message>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="75"/>
@@ -5246,7 +5246,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="76"/>
       <source>Interface</source>
-      <translation type="unfinished">Interface</translation>
+      <translation>Інтэрфейс</translation>
     </message>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="76"/>
@@ -5256,7 +5256,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="77"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Інфармацыя</translation>
     </message>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="77"/>
@@ -5286,7 +5286,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="87"/>
       <source>Proxy</source>
-      <translation type="unfinished">Proxy</translation>
+      <translation>Проксі</translation>
     </message>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="87"/>
@@ -5296,7 +5296,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="90"/>
       <source>Shortcuts</source>
-      <translation type="unfinished">Shortcuts</translation>
+      <translation>Цэтлікі</translation>
     </message>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="90"/>
@@ -5306,7 +5306,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="92"/>
       <source>Cache</source>
-      <translation type="unfinished">Cache</translation>
+      <translation>Кэш</translation>
     </message>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="92"/>
@@ -5336,7 +5336,7 @@ Overwrite?</translation>
     <message>
       <location filename="../gui/preferencesdialog.cpp" line="99"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>Наладзіць</translation>
     </message>
   </context>
   <context>
@@ -5344,12 +5344,12 @@ Overwrite?</translation>
     <message>
       <location filename="../network/proxysettings.ui" line="26"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>Рэжым:</translation>
     </message>
     <message>
       <location filename="../network/proxysettings.ui" line="39"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Тып:</translation>
     </message>
     <message>
       <location filename="../network/proxysettings.ui" line="50"/>
@@ -5364,22 +5364,22 @@ Overwrite?</translation>
     <message>
       <location filename="../network/proxysettings.ui" line="63"/>
       <source>Host:</source>
-      <translation type="unfinished">Host:</translation>
+      <translation>Хост:</translation>
     </message>
     <message>
       <location filename="../network/proxysettings.ui" line="76"/>
       <source>Port:</source>
-      <translation type="unfinished">Port:</translation>
+      <translation>Порт:</translation>
     </message>
     <message>
       <location filename="../network/proxysettings.ui" line="96"/>
       <source>Username:</source>
-      <translation type="unfinished">Username:</translation>
+      <translation>Імя карыстальніка:</translation>
     </message>
     <message>
       <location filename="../network/proxysettings.ui" line="109"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>Пароль:</translation>
     </message>
     <message>
       <location filename="../network/proxysettings.cpp" line="32"/>
@@ -5498,7 +5498,7 @@ Overwrite?</translation>
       <location filename="../devices/encoders.cpp" line="214"/>
       <location filename="../devices/encoders.cpp" line="305"/>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Бітрэйт</translation>
     </message>
     <message>
       <location filename="../devices/encoders.cpp" line="233"/>
@@ -5513,7 +5513,7 @@ Overwrite?</translation>
     <message>
       <location filename="../devices/encoders.cpp" line="249"/>
       <source>FLAC</source>
-      <translation type="unfinished">FLAC</translation>
+      <translation>FLAC</translation>
     </message>
     <message>
       <location filename="../devices/encoders.cpp" line="250"/>
@@ -5528,7 +5528,7 @@ Overwrite?</translation>
     <message>
       <location filename="../devices/encoders.cpp" line="269"/>
       <source>Compression level</source>
-      <translation type="unfinished">Compression level</translation>
+      <translation>Узровень сціскання</translation>
     </message>
     <message>
       <location filename="../devices/encoders.cpp" line="279"/>
@@ -5609,13 +5609,13 @@ Overwrite?</translation>
       <location filename="../playlists/dynamicplaylists.cpp" line="82"/>
       <location filename="../scrobbling/scrobbler.cpp" line="104"/>
       <source>Unknown error</source>
-      <translation type="unfinished">Unknown error</translation>
+      <translation>Невядомая памылка</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="605"/>
       <location filename="../playlists/playlistrulesdialog.cpp" line="71"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="73"/>
@@ -5631,40 +5631,40 @@ Overwrite?</translation>
       <location filename="../mpd-interface/song.cpp" line="609"/>
       <location filename="../playlists/playlistrulesdialog.cpp" line="77"/>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Кампазітар</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="79"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Каментар</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="611"/>
       <location filename="../playlists/playlistrulesdialog.cpp" line="81"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="604"/>
       <location filename="../playlists/playlistrulesdialog.cpp" line="83"/>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Загаловак</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="618"/>
       <location filename="../playlists/playlistrulesdialog.cpp" line="85"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="87"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Дата</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="89"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Файл</translation>
     </message>
     <message>
       <location filename="../playlists/playlistrulesdialog.cpp" line="101"/>
@@ -5754,7 +5754,7 @@ width x height</comment>
     <message>
       <location filename="../gui/stdactions.cpp" line="88"/>
       <source>Stop</source>
-      <translation type="unfinished">Stop</translation>
+      <translation>Прыпыненне</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="89"/>
@@ -5779,7 +5779,7 @@ width x height</comment>
     <message>
       <location filename="../gui/stdactions.cpp" line="93"/>
       <source>Save As</source>
-      <translation type="unfinished">Save As</translation>
+      <translation>Захаваць як</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="94"/>
@@ -5834,12 +5834,12 @@ width x height</comment>
     <message>
       <location filename="../gui/stdactions.cpp" line="142"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>Наблізіць</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="144"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>Аддаліць</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="45"/>
@@ -5889,7 +5889,7 @@ width x height</comment>
     <message>
       <location filename="../gui/stdactions.cpp" line="117"/>
       <source>ReplayGain</source>
-      <translation type="unfinished">ReplayGain</translation>
+      <translation>Перадузмацненне</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="120"/>
@@ -5909,12 +5909,12 @@ width x height</comment>
     <message>
       <location filename="../gui/stdactions.cpp" line="125"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="126"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>Шукаць</translation>
     </message>
     <message>
       <location filename="../gui/stdactions.cpp" line="132"/>
@@ -5930,13 +5930,13 @@ width x height</comment>
       <location filename="../models/streamsmodel.cpp" line="1286"/>
       <location filename="../models/streamsmodel.cpp" line="1293"/>
       <source>Other</source>
-      <translation type="unfinished">Other</translation>
+      <translation>Іншае</translation>
     </message>
     <message>
       <location filename="../mpd-interface/mpdconnection.cpp" line="207"/>
       <location filename="../mpd-interface/mpdconnection.cpp" line="209"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Прадвызначаная</translation>
     </message>
     <message>
       <location filename="../mpd-interface/mpdconnection.cpp" line="220"/>
@@ -5947,7 +5947,7 @@ width x height</comment>
     <message>
       <location filename="../mpd-interface/song.cpp" line="72"/>
       <source>Single Tracks</source>
-      <translation type="unfinished">Single Tracks</translation>
+      <translation>Трэк</translation>
     </message>
     <message>
       <location filename="../mpd-interface/mpduser.cpp" line="49"/>
@@ -5958,7 +5958,7 @@ width x height</comment>
       <location filename="../mpd-interface/song.cpp" line="70"/>
       <location filename="../support/utils.cpp" line="669"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Невядома</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="71"/>
@@ -5968,12 +5968,12 @@ width x height</comment>
     <message>
       <location filename="../mpd-interface/song.cpp" line="607"/>
       <source>Album artist</source>
-      <translation type="unfinished">Album artist</translation>
+      <translation>Выканаўца альбома</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="610"/>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="613"/>
@@ -5988,7 +5988,7 @@ width x height</comment>
     <message>
       <location filename="../mpd-interface/song.cpp" line="620"/>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Год</translation>
     </message>
     <message>
       <location filename="../mpd-interface/song.cpp" line="623"/>
@@ -6015,7 +6015,7 @@ width x height</comment>
     <message>
       <location filename="../mpd-interface/song.cpp" line="862"/>
       <source>(Stream)</source>
-      <translation type="unfinished">(Stream)</translation>
+      <translation>(Струмень)</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobbler.cpp" line="91"/>
@@ -6030,7 +6030,7 @@ width x height</comment>
     <message>
       <location filename="../scrobbling/scrobbler.cpp" line="93"/>
       <source>Authentication failed</source>
-      <translation type="unfinished">Authentication failed</translation>
+      <translation>Аўтэнтыфікацыя схібіла</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobbler.cpp" line="94"/>
@@ -6050,7 +6050,7 @@ width x height</comment>
     <message>
       <location filename="../scrobbling/scrobbler.cpp" line="97"/>
       <source>Operation failed</source>
-      <translation type="unfinished">Operation failed</translation>
+      <translation>Не атрымалася выканаць аперацыю</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobbler.cpp" line="98"/>
@@ -6080,7 +6080,7 @@ width x height</comment>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="215"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>Асноўнае</translation>
     </message>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="216"/>
@@ -6095,22 +6095,22 @@ width x height</comment>
     <message>
       <location filename="../support/dialog.cpp" line="119"/>
       <source>&amp;OK</source>
-      <translation type="unfinished">&amp;OK</translation>
+      <translation>&amp;Добра</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="120"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;Скасаваць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="121"/>
       <source>&amp;Yes</source>
-      <translation type="unfinished">&amp;Yes</translation>
+      <translation>&amp;Так</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="122"/>
       <source>&amp;No</source>
-      <translation type="unfinished">&amp;No</translation>
+      <translation>&amp;Не</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="123"/>
@@ -6120,131 +6120,131 @@ width x height</comment>
     <message>
       <location filename="../support/dialog.cpp" line="124"/>
       <source>&amp;Save</source>
-      <translation type="unfinished">&amp;Save</translation>
+      <translation>&amp;Захаваць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="125"/>
       <source>&amp;Apply</source>
-      <translation type="unfinished">&amp;Apply</translation>
+      <translation>&amp;Ужыць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="126"/>
       <source>&amp;Close</source>
-      <translation type="unfinished">&amp;Close</translation>
+      <translation>&amp;Закрыць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="127"/>
       <source>&amp;Help</source>
-      <translation type="unfinished">&amp;Help</translation>
+      <translation>&amp;Даведка</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="128"/>
       <source>&amp;Overwrite</source>
-      <translation type="unfinished">&amp;Overwrite</translation>
+      <translation>&amp;Перазапісаць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="129"/>
       <source>&amp;Reset</source>
-      <translation type="unfinished">&amp;Reset</translation>
+      <translation>&amp;Скінуць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="130"/>
       <source>&amp;Continue</source>
-      <translation type="unfinished">&amp;Continue</translation>
+      <translation>&amp;Працягнуць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="131"/>
       <source>&amp;Delete</source>
-      <translation type="unfinished">&amp;Delete</translation>
+      <translation>&amp;Выдаліць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="132"/>
       <source>&amp;Stop</source>
-      <translation type="unfinished">&amp;Stop</translation>
+      <translation>&amp;Прыпыненне</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="133"/>
       <source>&amp;Remove</source>
-      <translation type="unfinished">&amp;Remove</translation>
+      <translation>&amp;Выдаліць</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="134"/>
       <source>&amp;Previous</source>
-      <translation type="unfinished">&amp;Previous</translation>
+      <translation>&amp;Папярэдні</translation>
     </message>
     <message>
       <location filename="../support/dialog.cpp" line="135"/>
       <source>&amp;Next</source>
-      <translation type="unfinished">&amp;Next</translation>
+      <translation>&amp;Наступны</translation>
     </message>
     <message>
       <location filename="../support/kmessagewidget.cpp" line="59"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Закрыць</translation>
     </message>
     <message>
       <location filename="../support/messagebox.cpp" line="67"/>
       <location filename="../support/messagebox.cpp" line="147"/>
       <location filename="../support/messagebox.h" line="60"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Памылка</translation>
     </message>
     <message>
       <location filename="../support/messagebox.cpp" line="78"/>
       <location filename="../support/messagebox.cpp" line="162"/>
       <location filename="../support/messagebox.h" line="63"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>Інфармацыя</translation>
     </message>
     <message>
       <location filename="../support/messagebox.cpp" line="92"/>
       <location filename="../support/messagebox.cpp" line="96"/>
       <location filename="../support/messagebox.cpp" line="157"/>
       <source>Warning</source>
-      <translation type="unfinished">Warning</translation>
+      <translation>Папярэджанне</translation>
     </message>
     <message>
       <location filename="../support/messagebox.cpp" line="92"/>
       <location filename="../support/messagebox.cpp" line="96"/>
       <location filename="../support/messagebox.cpp" line="152"/>
       <source>Question</source>
-      <translation type="unfinished">Question</translation>
+      <translation>Пытанне</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="454"/>
       <location filename="../support/utils.cpp" line="462"/>
       <source>%1 B</source>
-      <translation type="unfinished">%1 B</translation>
+      <translation>%1 Б</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="455"/>
       <source>%1 kB</source>
-      <translation type="unfinished">%1 kB</translation>
+      <translation>%1 кб</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="456"/>
       <source>%1 MB</source>
-      <translation type="unfinished">%1 MB</translation>
+      <translation>%1 Мб</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="458"/>
       <source>%1 GB</source>
-      <translation type="unfinished">%1 GB</translation>
+      <translation>%1 Гб</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="463"/>
       <source>%1 KiB</source>
-      <translation type="unfinished">%1 KiB</translation>
+      <translation>%1 КіБ</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="464"/>
       <source>%1 MiB</source>
-      <translation type="unfinished">%1 MiB</translation>
+      <translation>%1 МіБ</translation>
     </message>
     <message>
       <location filename="../support/utils.cpp" line="466"/>
       <source>%1 GiB</source>
-      <translation type="unfinished">%1 GiB</translation>
+      <translation>%1 ГіБ</translation>
     </message>
     <message>
       <location filename="../widgets/singlepagewidget.cpp" line="38"/>
@@ -6264,12 +6264,12 @@ width x height</comment>
     <message>
       <location filename="../widgets/singlepagewidget.cpp" line="42"/>
       <source>List</source>
-      <translation type="unfinished">List</translation>
+      <translation>Спіс</translation>
     </message>
     <message>
       <location filename="../widgets/singlepagewidget.cpp" line="43"/>
       <source>Grid</source>
-      <translation type="unfinished">Grid</translation>
+      <translation>Сетка</translation>
     </message>
     <message>
       <location filename="../widgets/singlepagewidget.cpp" line="45"/>
@@ -6444,7 +6444,7 @@ width x height</comment>
     <message>
       <location filename="../devices/remotedevicepropertiesdialog.cpp" line="51"/>
       <source>Music Library</source>
-      <translation type="unfinished">Music Library</translation>
+      <translation>Музычная бібліятэка</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertiesdialog.cpp" line="59"/>
@@ -6471,27 +6471,27 @@ Please choose a different name.</translation>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="29"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Тып:</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="42"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="57"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Параметры</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="72"/>
       <source>Host:</source>
-      <translation type="unfinished">Host:</translation>
+      <translation>Хост:</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="85"/>
       <source>Port:</source>
-      <translation type="unfinished">Port:</translation>
+      <translation>Порт:</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="102"/>
@@ -6502,7 +6502,7 @@ Please choose a different name.</translation>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="115"/>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="173"/>
       <source>Folder:</source>
-      <translation type="unfinished">Folder:</translation>
+      <translation>Каталог:</translation>
     </message>
     <message>
       <location filename="../devices/remotedevicepropertieswidget.ui" line="128"/>
@@ -6602,7 +6602,7 @@ Please choose a different name.</translation>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="81"/>
       <source>ReplayGain</source>
-      <translation type="unfinished">ReplayGain</translation>
+      <translation>Перадузмацненне</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="91"/>
@@ -6617,48 +6617,48 @@ Please choose a different name.</translation>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="99"/>
       <source>Remove From List</source>
-      <translation type="unfinished">Remove From List</translation>
+      <translation>Выдаліць са спіса</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="103"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="104"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="105"/>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Назва</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="106"/>
       <source>Album Gain</source>
-      <translation type="unfinished">Album Gain</translation>
+      <translation>Узмацненне альбома</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="107"/>
       <source>Track Gain</source>
-      <translation type="unfinished">Track Gain</translation>
+      <translation>Узмацненне трэка</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="108"/>
       <source>Album Peak</source>
-      <translation type="unfinished">Album Peak</translation>
+      <translation>Пік альбома</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="109"/>
       <source>Track Peak</source>
-      <translation type="unfinished">Track Peak</translation>
+      <translation>Пік трэка</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="129"/>
       <location filename="../replaygain/rgdialog.cpp" line="268"/>
       <source>Scan</source>
-      <translation type="unfinished">Scan</translation>
+      <translation>Сканаваць</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="232"/>
@@ -6671,7 +6671,7 @@ Please choose a different name.</translation>
       <location filename="../replaygain/rgdialog.cpp" line="241"/>
       <location filename="../replaygain/rgdialog.cpp" line="242"/>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>Скасаванне</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="241"/>
@@ -6696,7 +6696,7 @@ Please choose a different name.</translation>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="270"/>
       <source>All Tracks</source>
-      <translation type="unfinished">All Tracks</translation>
+      <translation>Усе трэкі</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="280"/>
@@ -6740,7 +6740,7 @@ Please choose a different name.</translation>
       <location filename="../replaygain/rgdialog.cpp" line="588"/>
       <location filename="../replaygain/rgdialog.cpp" line="592"/>
       <source>%1 dB</source>
-      <translation type="unfinished">%1 dB</translation>
+      <translation>%1 дБ</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="499"/>
@@ -6752,7 +6752,7 @@ Please choose a different name.</translation>
       <location filename="../replaygain/rgdialog.cpp" line="566"/>
       <location filename="../replaygain/rgdialog.cpp" line="567"/>
       <source>Failed</source>
-      <translation type="unfinished">Failed</translation>
+      <translation>Не атрымалася</translation>
     </message>
     <message>
       <location filename="../replaygain/rgdialog.cpp" line="518"/>
@@ -6787,37 +6787,37 @@ Please choose a different name.</translation>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="97"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="98"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="99"/>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Кампазітар</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="100"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Часе</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="101"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="102"/>
       <source>Rating</source>
-      <translation type="unfinished">Rating</translation>
+      <translation>Рэйтынг</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="103"/>
       <source>Title</source>
-      <translation type="unfinished">Title</translation>
+      <translation>Назва</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="104"/>
@@ -6827,7 +6827,7 @@ Please choose a different name.</translation>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="106"/>
       <source>Random</source>
-      <translation type="unfinished">Random</translation>
+      <translation>Выпадковы</translation>
     </message>
     <message numerus="yes">
       <location filename="../playlists/rulesplaylists.cpp" line="173"/>
@@ -6847,12 +6847,12 @@ Please choose a different name.</translation>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="176"/>
       <source>Ascending</source>
-      <translation type="unfinished">Ascending</translation>
+      <translation>Да павелічэння</translation>
     </message>
     <message>
       <location filename="../playlists/rulesplaylists.cpp" line="176"/>
       <source>Descending</source>
-      <translation type="unfinished">Descending</translation>
+      <translation>Адваротны</translation>
     </message>
   </context>
   <context>
@@ -6887,22 +6887,22 @@ Please choose a different name.</translation>
     <message>
       <location filename="../scrobbling/scrobblingsettings.ui" line="58"/>
       <source>Username:</source>
-      <translation type="unfinished">Username:</translation>
+      <translation>Імя карыстальніка:</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobblingsettings.ui" line="71"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>Пароль:</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobblingsettings.ui" line="88"/>
       <source>Status:</source>
-      <translation type="unfinished">Status:</translation>
+      <translation>Стан:</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobblingsettings.ui" line="114"/>
       <source>Login</source>
-      <translation type="unfinished">Login</translation>
+      <translation>Лагін</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobblingsettings.ui" line="131"/>
@@ -6933,7 +6933,7 @@ Please choose a different name.</translation>
     <message>
       <location filename="../scrobbling/scrobblingsettings.cpp" line="131"/>
       <source>Authenticated</source>
-      <translation type="unfinished">Authenticated</translation>
+      <translation>З аўтэнтыфікацыяй</translation>
     </message>
     <message>
       <location filename="../scrobbling/scrobblingsettings.cpp" line="131"/>
@@ -6978,7 +6978,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="248"/>
       <source>Artist:</source>
-      <translation type="unfinished">Artist:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="248"/>
@@ -6988,7 +6988,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="251"/>
       <source>Composer:</source>
-      <translation type="unfinished">Composer:</translation>
+      <translation>Кампазітар:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="251"/>
@@ -6998,7 +6998,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="254"/>
       <source>Performer:</source>
-      <translation type="unfinished">Performer:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="254"/>
@@ -7008,7 +7008,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="256"/>
       <source>Album:</source>
-      <translation type="unfinished">Album:</translation>
+      <translation>Альбом:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="256"/>
@@ -7018,7 +7018,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="257"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="257"/>
@@ -7028,7 +7028,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="258"/>
       <source>Genre:</source>
-      <translation type="unfinished">Genre:</translation>
+      <translation>Жанр:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="258"/>
@@ -7038,7 +7038,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="260"/>
       <source>Comment:</source>
-      <translation type="unfinished">Comment:</translation>
+      <translation>Каментар:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="260"/>
@@ -7048,7 +7048,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="262"/>
       <source>Date:</source>
-      <translation type="unfinished">Date:</translation>
+      <translation>Дата:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="263"/>
@@ -7068,7 +7068,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="269"/>
       <source>Modified:</source>
-      <translation type="unfinished">Modified:</translation>
+      <translation>Зменены:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="270"/>
@@ -7078,7 +7078,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/searchpage.cpp" line="273"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>Файл:</translation>
     </message>
     <message>
       <location filename="../gui/searchpage.cpp" line="273"/>
@@ -7116,7 +7116,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../widgets/searchwidget.cpp" line="70"/>
       <source>Search...</source>
-      <translation type="unfinished">Search...</translation>
+      <translation>Пошук...</translation>
     </message>
     <message>
       <location filename="../widgets/searchwidget.cpp" line="72"/>
@@ -7134,18 +7134,18 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/serversettings.ui" line="63"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.ui" line="76"/>
       <location filename="../gui/serversettings.cpp" line="98"/>
       <source>Host:</source>
-      <translation type="unfinished">Host:</translation>
+      <translation>Хост:</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.ui" line="109"/>
       <source>Password:</source>
-      <translation type="unfinished">Password:</translation>
+      <translation>Пароль:</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.ui" line="126"/>
@@ -7176,7 +7176,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/serversettings.ui" line="172"/>
       <source>Auto update:</source>
-      <translation type="unfinished">Auto update:</translation>
+      <translation>Аўтаматычныя абнаўленні:</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.ui" line="182"/>
@@ -7261,12 +7261,12 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/serversettings.cpp" line="271"/>
       <source>Standard</source>
-      <translation type="unfinished">Standard</translation>
+      <translation>Стандартна</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.cpp" line="271"/>
       <source>Basic</source>
-      <translation type="unfinished">Basic</translation>
+      <translation>Базавы</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.cpp" line="318"/>
@@ -7276,7 +7276,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/serversettings.cpp" line="319"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../gui/serversettings.cpp" line="372"/>
@@ -7286,7 +7286,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../gui/serversettings.cpp" line="389"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Прадвызначаная</translation>
     </message>
   </context>
   <context>
@@ -7307,7 +7307,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../support/shortcutsmodel.cpp" line="112"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>Дзеянне</translation>
     </message>
     <message>
       <location filename="../support/shortcutsmodel.cpp" line="114"/>
@@ -7320,7 +7320,7 @@ This cannot be undone.</translation>
     <message>
       <location filename="../support/shortcutssettingswidget.ui" line="22"/>
       <source>Search:</source>
-      <translation type="unfinished">Search:</translation>
+      <translation>Пошук:</translation>
     </message>
     <message>
       <location filename="../support/shortcutssettingswidget.ui" line="65"/>
@@ -7330,19 +7330,19 @@ This cannot be undone.</translation>
     <message>
       <location filename="../support/shortcutssettingswidget.ui" line="71"/>
       <source>Default:</source>
-      <translation type="unfinished">Default:</translation>
+      <translation>Прадвызначаная:</translation>
     </message>
     <message>
       <location filename="../support/shortcutssettingswidget.ui" line="78"/>
       <location filename="../support/shortcutssettingswidget.cpp" line="99"/>
       <location filename="../support/shortcutssettingswidget.cpp" line="109"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Няма</translation>
     </message>
     <message>
       <location filename="../support/shortcutssettingswidget.ui" line="85"/>
       <source>Custom:</source>
-      <translation type="unfinished">Custom:</translation>
+      <translation>Адвольны:</translation>
     </message>
   </context>
   <context>
@@ -7350,12 +7350,12 @@ This cannot be undone.</translation>
     <message>
       <location filename="../widgets/singlepagewidget.cpp" line="106"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Абнавіць</translation>
     </message>
     <message>
       <location filename="../widgets/singlepagewidget.cpp" line="206"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>Агляд</translation>
     </message>
   </context>
   <context>
@@ -7376,17 +7376,17 @@ This cannot be undone.</translation>
     <message>
       <location filename="../playlists/smartplaylistspage.cpp" line="38"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Дадаць</translation>
     </message>
     <message>
       <location filename="../playlists/smartplaylistspage.cpp" line="39"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Рэдагаваць</translation>
     </message>
     <message>
       <location filename="../playlists/smartplaylistspage.cpp" line="40"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../playlists/smartplaylistspage.cpp" line="73"/>
@@ -7446,17 +7446,17 @@ Please check that the device is still attached.</translation>
     <message>
       <location filename="../context/songview.cpp" line="99"/>
       <source>Lyrics</source>
-      <translation type="unfinished">Lyrics</translation>
+      <translation>Тэксты песень</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="99"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>Інфармацыя</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="99"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>Метаданыя</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="112"/>
@@ -7486,12 +7486,12 @@ Please check that the device is still attached.</translation>
     <message>
       <location filename="../context/songview.cpp" line="127"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Скасаваць</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="142"/>
       <source>Track</source>
-      <translation type="unfinished">Track</translation>
+      <translation>Трэк</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="161"/>
@@ -7505,7 +7505,7 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../context/songview.cpp" line="161"/>
       <source>Reload</source>
-      <translation type="unfinished">Reload</translation>
+      <translation>Перазагрузіць</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="162"/>
@@ -7515,7 +7515,7 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../context/songview.cpp" line="162"/>
       <source>Download</source>
-      <translation type="unfinished">Download</translation>
+      <translation>Спампаваць</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="194"/>
@@ -7545,51 +7545,51 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../context/songview.cpp" line="227"/>
       <source>Delete File</source>
-      <translation type="unfinished">Delete File</translation>
+      <translation>Выдаліць файл</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="531"/>
       <location filename="../context/songview.cpp" line="611"/>
       <source>Artist</source>
-      <translation type="unfinished">Artist</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="532"/>
       <location filename="../context/songview.cpp" line="612"/>
       <source>Album artist</source>
-      <translation type="unfinished">Album artist</translation>
+      <translation>Выканаўца альбома</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="533"/>
       <location filename="../context/songview.cpp" line="613"/>
       <source>Composer</source>
-      <translation type="unfinished">Composer</translation>
+      <translation>Кампазітар</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="535"/>
       <source>Lyricist</source>
-      <translation type="unfinished">Lyricist</translation>
+      <translation>Аўтар тэксту</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="536"/>
       <source>Conductor</source>
-      <translation type="unfinished">Conductor</translation>
+      <translation>Дырыжор</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="537"/>
       <source>Remixer</source>
-      <translation type="unfinished">Remixer</translation>
+      <translation>Рэмікшар</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="538"/>
       <location filename="../context/songview.cpp" line="615"/>
       <source>Album</source>
-      <translation type="unfinished">Album</translation>
+      <translation>Альбом</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="539"/>
       <source>Subtitle</source>
-      <translation type="unfinished">Subtitle</translation>
+      <translation>Падзагаловак</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="540"/>
@@ -7607,12 +7607,12 @@ Reload from disk, or delete disk copy and download?</translation>
       <location filename="../context/songview.cpp" line="542"/>
       <location filename="../context/songview.cpp" line="619"/>
       <source>Genre</source>
-      <translation type="unfinished">Genre</translation>
+      <translation>Жанр</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="543"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Дата</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="544"/>
@@ -7623,17 +7623,17 @@ Reload from disk, or delete disk copy and download?</translation>
       <location filename="../context/songview.cpp" line="545"/>
       <location filename="../context/songview.cpp" line="622"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Каментар</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="546"/>
       <source>Copyright</source>
-      <translation type="unfinished">Copyright</translation>
+      <translation>Аўтарскія правы</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="547"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Адмеціна</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="548"/>
@@ -7668,7 +7668,7 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../context/songview.cpp" line="554"/>
       <source>Encoder</source>
-      <translation type="unfinished">Encoder</translation>
+      <translation>Кадавальнік</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="555"/>
@@ -7678,25 +7678,25 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../context/songview.cpp" line="556"/>
       <source>Media</source>
-      <translation type="unfinished">Media</translation>
+      <translation>Носьбіт</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="557"/>
       <location filename="../context/songview.cpp" line="596"/>
       <source>Bitrate</source>
-      <translation type="unfinished">Bitrate</translation>
+      <translation>Бітрэйт</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="558"/>
       <location filename="../context/songview.cpp" line="599"/>
       <source>Sample rate</source>
-      <translation type="unfinished">Sample rate</translation>
+      <translation>Шашчыня сэмпла</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="559"/>
       <location filename="../context/songview.cpp" line="602"/>
       <source>Channels</source>
-      <translation type="unfinished">Channels</translation>
+      <translation>Каналы</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="561"/>
@@ -7721,22 +7721,22 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../context/songview.cpp" line="606"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>Біты</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="614"/>
       <source>Performer</source>
-      <translation type="unfinished">Performer</translation>
+      <translation>Выканаўца</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="618"/>
       <source>Duration</source>
-      <translation type="unfinished">Duration</translation>
+      <translation>Працягласць</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="620"/>
       <source>Year</source>
-      <translation type="unfinished">Year</translation>
+      <translation>Год</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="621"/>
@@ -7747,7 +7747,7 @@ Reload from disk, or delete disk copy and download?</translation>
       <location filename="../context/songview.cpp" line="658"/>
       <location filename="../context/songview.cpp" line="661"/>
       <source>Filename</source>
-      <translation type="unfinished">Filename</translation>
+      <translation>Назва файла</translation>
     </message>
     <message>
       <location filename="../context/songview.cpp" line="887"/>
@@ -7768,7 +7768,7 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../gui/cachesettings.cpp" line="230"/>
       <source>Calculating...</source>
-      <translation type="unfinished">Calculating...</translation>
+      <translation>Падлік...</translation>
     </message>
     <message>
       <location filename="../gui/cachesettings.cpp" line="240"/>
@@ -7863,7 +7863,7 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../models/sqllibrarymodel.cpp" line="420"/>
       <source>Playlist</source>
-      <translation type="unfinished">Playlist</translation>
+      <translation>Спіс прайгравання</translation>
     </message>
     <message>
       <location filename="../models/sqllibrarymodel.cpp" line="445"/>
@@ -7876,7 +7876,7 @@ Reload from disk, or delete disk copy and download?</translation>
     <message>
       <location filename="../playlists/storedplaylistspage.cpp" line="57"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Змяніць назву</translation>
     </message>
     <message>
       <location filename="../playlists/storedplaylistspage.cpp" line="58"/>
@@ -7939,7 +7939,7 @@ Overwrite?</translation>
     <message>
       <location filename="../playlists/storedplaylistspage.cpp" line="233"/>
       <source>Rename Playlist</source>
-      <translation type="unfinished">Rename Playlist</translation>
+      <translation>Змяніць назву плэйліста</translation>
     </message>
     <message>
       <location filename="../playlists/storedplaylistspage.cpp" line="233"/>
@@ -7962,12 +7962,12 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamdialog.cpp" line="54"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../streams/streamdialog.cpp" line="55"/>
       <source>URL:</source>
-      <translation type="unfinished">URL:</translation>
+      <translation>URL:</translation>
     </message>
     <message>
       <location filename="../streams/streamdialog.cpp" line="70"/>
@@ -7998,12 +7998,12 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="127"/>
       <source>Installed</source>
-      <translation type="unfinished">Installed</translation>
+      <translation>Усталявана</translation>
     </message>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="129"/>
       <source>Update available</source>
-      <translation type="unfinished">Update available</translation>
+      <translation>Ёсць абнаўленне</translation>
     </message>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="131"/>
@@ -8053,7 +8053,7 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="364"/>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>Скасаванне</translation>
     </message>
     <message numerus="yes">
       <location filename="../streams/streamproviderlistdialog.cpp" line="412"/>
@@ -8068,7 +8068,7 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="422"/>
       <source>Downloading %1</source>
-      <translation type="unfinished">Downloading %1</translation>
+      <translation>Спампоўванне %1</translation>
     </message>
     <message>
       <location filename="../streams/streamproviderlistdialog.cpp" line="441"/>
@@ -8121,7 +8121,7 @@ Overwrite?</translation>
     <message>
       <location filename="../models/streamsearchmodel.cpp" line="139"/>
       <source>Loading...</source>
-      <translation type="unfinished">Loading...</translation>
+      <translation>Загрузка...</translation>
     </message>
     <message numerus="yes">
       <location filename="../models/streamsearchmodel.cpp" line="141"/>
@@ -8162,7 +8162,7 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamspage.cpp" line="106"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Рэдагаваць</translation>
     </message>
     <message>
       <location filename="../streams/streamspage.cpp" line="107"/>
@@ -8172,7 +8172,7 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamspage.cpp" line="141"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>Наладзіць</translation>
     </message>
     <message>
       <location filename="../streams/streamspage.cpp" line="157"/>
@@ -8269,7 +8269,7 @@ Overwrite?</translation>
     <message>
       <location filename="../models/streamsmodel.cpp" line="228"/>
       <source>Bookmarks</source>
-      <translation type="unfinished">Bookmarks</translation>
+      <translation>Закладкі</translation>
     </message>
     <message>
       <location filename="../models/streamsmodel.cpp" line="493"/>
@@ -8294,7 +8294,7 @@ Overwrite?</translation>
     <message>
       <location filename="../models/streamsmodel.cpp" line="503"/>
       <source>Favorites</source>
-      <translation type="unfinished">Favorites</translation>
+      <translation>Выбранае</translation>
     </message>
     <message>
       <location filename="../models/streamsmodel.cpp" line="506"/>
@@ -8314,7 +8314,7 @@ Overwrite?</translation>
     <message>
       <location filename="../models/streamsmodel.cpp" line="509"/>
       <source>Reload</source>
-      <translation type="unfinished">Reload</translation>
+      <translation>Перазагрузіць</translation>
     </message>
     <message>
       <location filename="../models/streamsmodel.cpp" line="544"/>
@@ -8334,7 +8334,7 @@ Overwrite?</translation>
     <message>
       <location filename="../models/streamsmodel.cpp" line="636"/>
       <source>Loading...</source>
-      <translation type="unfinished">Loading...</translation>
+      <translation>Загрузка...</translation>
     </message>
     <message numerus="yes">
       <location filename="../models/streamsmodel.cpp" line="638"/>
@@ -8372,7 +8372,7 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamssettings.cpp" line="74"/>
       <source>Download...</source>
-      <translation type="unfinished">Download...</translation>
+      <translation>Спампаваць...</translation>
     </message>
     <message>
       <location filename="../streams/streamssettings.cpp" line="81"/>
@@ -8382,12 +8382,12 @@ Overwrite?</translation>
     <message>
       <location filename="../streams/streamssettings.cpp" line="82"/>
       <source>Install</source>
-      <translation type="unfinished">Install</translation>
+      <translation>Усталяваць</translation>
     </message>
     <message>
       <location filename="../streams/streamssettings.cpp" line="83"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Выдаліць</translation>
     </message>
     <message>
       <location filename="../streams/streamssettings.cpp" line="136"/>
@@ -8445,7 +8445,7 @@ Overwrite?</translation>
     <message>
       <location filename="../devices/synccollectionwidget.cpp" line="51"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Пошук</translation>
     </message>
     <message>
       <location filename="../devices/synccollectionwidget.cpp" line="56"/>
@@ -8463,12 +8463,12 @@ Overwrite?</translation>
     <message>
       <location filename="../devices/syncdialog.cpp" line="109"/>
       <source>Library:</source>
-      <translation type="unfinished">Library:</translation>
+      <translation>Бібліятэка:</translation>
     </message>
     <message>
       <location filename="../devices/syncdialog.cpp" line="110"/>
       <source>Device:</source>
-      <translation type="unfinished">Device:</translation>
+      <translation>Прылада:</translation>
     </message>
     <message>
       <location filename="../devices/syncdialog.cpp" line="112"/>
@@ -8484,7 +8484,7 @@ Overwrite?</translation>
       <location filename="../devices/syncdialog.cpp" line="127"/>
       <location filename="../devices/syncdialog.cpp" line="130"/>
       <source>Synchronize</source>
-      <translation type="unfinished">Synchronize</translation>
+      <translation>Сінхранізаваць</translation>
     </message>
     <message>
       <location filename="../devices/syncdialog.cpp" line="181"/>
@@ -8527,22 +8527,22 @@ Overwrite?</translation>
     <message>
       <location filename="../widgets/tableview.cpp" line="164"/>
       <source>Left</source>
-      <translation type="unfinished">Left</translation>
+      <translation>Улева</translation>
     </message>
     <message>
       <location filename="../widgets/tableview.cpp" line="165"/>
       <source>Center</source>
-      <translation type="unfinished">Center</translation>
+      <translation>Па цэнтры</translation>
     </message>
     <message>
       <location filename="../widgets/tableview.cpp" line="166"/>
       <source>Right</source>
-      <translation type="unfinished">Right</translation>
+      <translation>Управа</translation>
     </message>
     <message>
       <location filename="../widgets/tableview.cpp" line="173"/>
       <source>Alignment</source>
-      <translation type="unfinished">Alignment</translation>
+      <translation>Выраўноўванне</translation>
     </message>
   </context>
   <context>
@@ -8550,32 +8550,32 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/tageditor.ui" line="34"/>
       <source>Track:</source>
-      <translation type="unfinished">Track:</translation>
+      <translation>Трэк:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="54"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="67"/>
       <source>Artist:</source>
-      <translation type="unfinished">Artist:</translation>
+      <translation>Выканаўца:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="80"/>
       <source>Album artist:</source>
-      <translation type="unfinished">Album artist:</translation>
+      <translation>Выканаўца альбома:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="93"/>
       <source>Composer:</source>
-      <translation type="unfinished">Composer:</translation>
+      <translation>Кампазітар:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="106"/>
       <source>Album:</source>
-      <translation type="unfinished">Album:</translation>
+      <translation>Альбом:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="119"/>
@@ -8590,17 +8590,17 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/tageditor.ui" line="145"/>
       <source>Genre:</source>
-      <translation type="unfinished">Genre:</translation>
+      <translation>Жанр:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="158"/>
       <source>Year:</source>
-      <translation type="unfinished">Year:</translation>
+      <translation>Год:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="171"/>
       <source>Rating:</source>
-      <translation type="unfinished">Rating:</translation>
+      <translation>Рэйтынг:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="186"/>
@@ -8610,7 +8610,7 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/tageditor.ui" line="195"/>
       <source>Comment:</source>
-      <translation type="unfinished">Comment:</translation>
+      <translation>Каментар:</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.ui" line="210"/>
@@ -8625,12 +8625,12 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/tageditor.cpp" line="205"/>
       <source>Tags</source>
-      <translation type="unfinished">Tags</translation>
+      <translation>Пазнакі</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.cpp" line="213"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Прылады</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.cpp" line="215"/>
@@ -8858,7 +8858,7 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/tageditor.cpp" line="1226"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Змяніць назву</translation>
     </message>
     <message>
       <location filename="../tags/tageditor.cpp" line="1290"/>
@@ -8915,12 +8915,12 @@ Overwrite?</translation>
     <message>
       <location filename="../context/togglelist.ui" line="17"/>
       <source>Available:</source>
-      <translation type="unfinished">Available:</translation>
+      <translation>Даступна:</translation>
     </message>
     <message>
       <location filename="../context/togglelist.ui" line="24"/>
       <source>Selected:</source>
-      <translation type="unfinished">Selected:</translation>
+      <translation>Абранае:</translation>
     </message>
   </context>
   <context>
@@ -8978,12 +8978,12 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/trackorganiser.cpp" line="73"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Змяніць назву</translation>
     </message>
     <message>
       <location filename="../tags/trackorganiser.cpp" line="80"/>
       <source>Remove From List</source>
-      <translation type="unfinished">Remove From List</translation>
+      <translation>Выдаліць са спіса</translation>
     </message>
     <message>
       <location filename="../tags/trackorganiser.cpp" line="165"/>
@@ -8993,7 +8993,7 @@ Overwrite?</translation>
     <message>
       <location filename="../tags/trackorganiser.cpp" line="165"/>
       <source>Abort</source>
-      <translation type="unfinished">Abort</translation>
+      <translation>Скасаванне</translation>
     </message>
     <message>
       <location filename="../tags/trackorganiser.cpp" line="282"/>
@@ -9006,7 +9006,7 @@ Overwrite?</translation>
       <location filename="../tags/trackorganiser.cpp" line="324"/>
       <location filename="../tags/trackorganiser.cpp" line="345"/>
       <source>Skip</source>
-      <translation type="unfinished">Skip</translation>
+      <translation>Прамінуць</translation>
     </message>
     <message>
       <location filename="../tags/trackorganiser.cpp" line="283"/>
@@ -9111,7 +9111,7 @@ If you rename a file (or the folder it is within), then the rating associated wi
     <message>
       <location filename="../devices/valueslider.cpp" line="98"/>
       <source> (recommended)</source>
-      <translation type="unfinished"> (recommended)</translation>
+      <translation> (рэкамендавана)</translation>
     </message>
   </context>
   <context>
@@ -9119,7 +9119,7 @@ If you rename a file (or the folder it is within), then the rating associated wi
     <message>
       <location filename="../context/view.cpp" line="133"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Скасаваць</translation>
     </message>
   </context>
   <context>
@@ -9172,7 +9172,7 @@ If you rename a file (or the folder it is within), then the rating associated wi
     <message>
       <location filename="../context/wikipediasettings.cpp" line="91"/>
       <source>Reload</source>
-      <translation type="unfinished">Reload</translation>
+      <translation>Перазагрузіць</translation>
     </message>
   </context>
 </TS>
